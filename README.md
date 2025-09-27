@@ -53,5 +53,5 @@
 ---
 
 ## 📬 Connect With Me  
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ismail-rizk99/))  
-- [GitHub]([your-github-url](https://github.com/ismail99rizk))  
+- [LinkedIn]((https://www.linkedin.com/in/ismail-rizk99/))  
+- [GitHub]((https://github.com/ismail99rizk))  
